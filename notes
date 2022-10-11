@@ -1,0 +1,6 @@
+create env
+pip django
+make app
+many urls many ports
+make more than 1 app
+-----------------------------------------
